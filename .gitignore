@@ -1,0 +1,6 @@
+
+start_venv.bat
+
+venv/
+__pycache__/
+*.pyc
